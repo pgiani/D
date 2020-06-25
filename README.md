@@ -3,9 +3,11 @@
 ![Transpilation status][transpilation-image]
 [![npm version][npm-image]][npm-url]
 
-# d
+# clone copy of d 
 
 ## Property descriptor factory
+
+
 
 _Originally derived from [d](https://github.com/medikoo/d) package._
 
