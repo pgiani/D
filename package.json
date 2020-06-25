@@ -1,8 +1,8 @@
 {
-	"name": "d",
+	"name": "D",
 	"version": "1.0.1",
-	"description": "Property descriptor factory",
-	"author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
+	"description": "Clone of d package - Property descriptor factory",
+	"author": "Pablo <pgiani@gmail.com> )",
 	"keywords": [
 		"descriptor",
 		"es",
