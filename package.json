@@ -15,7 +15,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/medikoo/d.git"
+		"url": "git://github.com/pgiani/D"
 	},
 	"dependencies": {
 		"es5-ext": "^0.10.50",
